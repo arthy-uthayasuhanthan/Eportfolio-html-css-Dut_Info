@@ -1,0 +1,199 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+a {
+    text-decoration: none;
+}
+#fullpage, #page {
+	background-color: #e9d3dc;
+	background-image:url(../img/neige.png);
+	display: block;
+	overflow-x: hidden;
+}
+
+/* DISPLAY BLOCK */
+
+nav, .pageprojet, .pagecomp, .title-propos, .pagecodedesign, .pageaccueil, .pagecontact,
+.expe, .pagecontact #end-form, .menuresponsive, #bloc, #floatbloc {
+	display: block;
+	overflow: hidden;
+}
+
+/* MENU */
+.menu-haut {
+	display: none;
+}
+header {
+	background: #ffdada;
+	margin-top: 55px;
+	width: 100%;
+	overflow: visible;
+	padding: 5px 0px 5px 0px;
+}
+header a, #menu2 a {
+	font-family: 'Amatic SC', cursive;
+	font-size: 40px;
+	color: #a48ba8;
+}
+li {
+	list-style-type: none;
+	float: left;
+	text-align: center;
+}
+.d_active, header a:hover {
+	border-bottom: 2px dotted #db4c4c;
+	color: #db4c4c;
+}
+.active2{
+	font-weight: 700;
+}
+.menu {
+	margin-left: 25%;
+}
+.menu li{
+	width: 17%;
+	display: inline-block;
+	padding-top: 20px;
+	padding-bottom: 25px;
+}
+.snav {
+	background-color: #ffdada;
+	display: none;
+	position: absolute;
+	width:12%;
+	margin-top: 25px;
+}
+.snav li{
+	width : 100%;
+}
+.snav a {
+	font-size: 35px;
+}
+#menu2 {
+	display: none;
+}
+
+nav li:hover .snav {
+	display : block;	
+}
+.snav ul li {
+	width :50px;	
+}
+
+/* INDEX DU PORTFOLIO */
+
+#circle-index {
+	display: block;
+	overflow: hidden;
+	width: 600px;
+	height: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50%;
+	-ms-border-radius : 50%;
+	-webkit-border-radius : 50%;
+	background-color: #ffdada;
+	background-image:url(../img/neige.png);
+	text-align: center;
+}
+#bloc {
+	background-color: #e9d3dc;
+}
+
+#bloc span {
+	font-size: 45px;
+	animation: arrow 2.5s infinite;
+	-webkit-animation : arrow 2.5s infinite;
+	-ms-animation: arrow 2.5s infinite;
+	-moz-animation: arrow 2.5s infinite;
+	color: #a48ba8;
+	margin-bottom: 15%;
+}
+#bloc h1 {
+	font-family: 'Amatic SC', cursive;
+	font-size: 40px;
+	color:#a48ba8;
+	padding-top: 25%;
+}
+
+@keyframes arrow {
+	0%{
+		margin-left: 0%;
+	}
+	50% {
+		margin-left: 4%;
+	}
+	100% {
+		margin-left: 0%;
+	}
+}
+/*******Caroussel***/
+#myCarousel h1{
+	border-bottom: 0px dotted transparent;	
+}
+
+/* SECTION ACCUEIL BIENVENUE */
+
+.pageaccueil h2, .pageaccueil h1, .pageaccueil h3 {
+	font-family: 'Amatic SC', cursive;
+	font-size: 80px;
+	color: black;
+	text-align: center;
+	color: #a48ba8;
+}
+.pageaccueil h1 {
+	margin-top: 7%;
+	font-size: 100px;
+}
+
+.pageaccueil h1{
+  font-size: 90px;
+  text-transform: uppercase;
+  margin: 70px 0 0;
+  letter-spacing: 15px;
+  text-align: center;
+}
+  
+.pageaccueil h1:before, .pageaccueil h1:after{
+    content: " ";
+    position: absolute;
+    width: 50px;
+    height: 5px;
+    /*border-top: 1px solid #222222;*/
+    /*border-bottom: 1px solid #222222;*/
+}
+.pageaccueil h1:before{
+    margin: 45px 0 0 -70px;
+}
+.pageaccueil h1:after{
+    margin: 45px 0 0 10px;
+}
+.pageaccueil h3 {
+	margin-top: 7%;
+	font-size: 60px;
+}
+.pageaccueil h3 span {
+	font-size: 30px;
+}
+
+/* FOOTER */
+
+footer, footer p {
+	display: block;
+	overflow: hidden;
+	background-color: black;
+	bottom:0;
+	width: 100%;
+	padding: 15px 0 15px 0;
+	text-align: center;
+	font-size: 17px;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+footer p{
+	color: white;
+}
+
+#footerfull {
+	position: absolute;
+}

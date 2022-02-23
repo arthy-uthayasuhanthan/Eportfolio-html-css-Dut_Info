@@ -1,0 +1,158 @@
+header,  #menuresponsive {
+	display: none;
+}
+#background {
+	background :  #e9d3dc;
+}
+/* DEUXIEME MENU RESPONSIVE */
+
+#menuresponsive {
+	background : #ffdada;
+	width: 55%;
+	z-index: 900;
+	padding-left: 10%;
+	height: 100%;
+	position: absolute;
+}
+.snav {
+	position: initial;
+	padding-left: 25%;
+	width: 100%;
+	margin-top: 0;
+}
+#menu2{
+	display: block;
+	padding: 5px 0px 5px 0px;
+}
+.active 	a{
+	color:#db4c4c;
+	border-bottom: 2px dotted #db4c4c;
+}
+#menu2 a {
+	font-size: 28px;
+	text-decoration: underline #e9d3dc ;
+	border-bottom: none;
+}
+.active, #menu2 a:hover  {
+	border-bottom: 2px dotted #db4c4c; 
+	color: #db4c4c;
+}
+.snav li {
+	padding-top: 5%;
+	padding-bottom: 1%;
+}
+#menu2 .snav a{
+	font-size: 24px;
+}
+#menu2 li {
+	clear: left;
+	text-align: left;
+	margin-bottom: 9%;
+}
+nav li:hover .snav {
+	display : block;	
+}
+.snav ul li {
+	width :50px;	
+}
+li  .active{
+	font-weight: 900;
+}
+.menu-haut {
+	display: block;
+	overflow: hidden;
+	position: relative;
+}
+.bt-menu, .bt-menu:before, .bt-menu:after{
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box; 
+	box-sizing:border-box 
+}
+.nav-menu, .bt-menu, .bt-menu:before, .bt-menu:after {
+	-webkit-transition: all 0.2s ease-in;
+	-moz-transition: all 0.2s ease-in;
+	-ms-transition: all 0.2s ease-in;
+	-o-transition: all 0.2s ease-in;
+	transition: all 0.2s ease-in;
+}	
+.bt-menu { 
+	width: 12%;
+	margin-top: 6.5%;
+	margin-left: 10%;
+	border: 0;
+	position: fixed;
+	color: #a48ba8; 
+	font-size: 12px; 
+	display: block; 
+	cursor: pointer;
+	padding: 0;
+	z-index: 999;
+	min-height: 37px;
+	background: none;
+}
+.bt-menu:before { 
+	content: ""; 
+	position: absolute; 
+	left: 0; 
+	top: 0.5em; 
+	width: 100%; 
+}
+.bt-menu:after { 
+	content: ""; 
+	display: block; 
+	position: absolute; 
+	left: 0; 
+	top: 1.5em;
+	width: 100%; 
+}
+.bt-menu, .bt-menu:after, .bt-menu:before {
+	border-top: #a48ba8 solid 0.5em;
+}
+.bt-menu.close{ border: 0 }
+.bt-menu.close:before, .bt-menu.close:after {
+	left: 0.05em; top: 0.75em;
+}
+.bt-menu.close:before {
+	-webkit-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	-o-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	transform: rotate(45deg);
+}
+.bt-menu.close:after {
+	-webkit-transform: rotate(-45deg);
+	-moz-transform: rotate(-45deg);
+	-o-transform: rotate(-45deg);
+	-ms-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+}
+
+/* PAGE ACCUEIL */
+
+.pageaccueil {
+	margin-top: 25%;
+}
+
+/* PAGE CONTACT */
+
+.pagecontact input {
+    width: 45%;
+}
+.pagecontact form {
+	margin-top: 18%;
+}
+.pagecontact textarea {
+	width : 45%;
+}
+.pagecontact p {
+	font-size: 27px;
+}
+.pagecontact #envoi, .pagecontact #reset {
+	width: 22%;
+}
+.pagecontact #end-form {
+    width: 70%;
+    margin-top: 3%;
+}
+
+

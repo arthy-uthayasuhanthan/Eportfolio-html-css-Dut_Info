@@ -1,0 +1,72 @@
+/* MENU */
+
+header {
+	margin-top: 30px;
+	padding: 2px 0px 2px 0px;
+}
+header a {
+	font-size: 33px;
+}
+.snav a {
+	font-size: 25px;
+}
+
+/* ACCUEIL */
+
+.pageaccueil h2{
+	font-size: 70px;
+}
+.pageaccueil h1 {
+	margin-top: 7%;
+	font-size: 90px;
+}
+.pageaccueil h3 {
+	margin-top: 7%;
+	font-size: 50px;
+}
+.pageaccueil h3 span {
+	font-size: 20px;
+}
+
+/* PAGES PROJET CODE + DESIGN */
+
+#bloc-projet-code, #bloc-projet-design {
+	width: 330px;
+	height: 330px;
+}
+
+.projets-code-des {
+	width: 150px;
+	height: 150px;
+}
+/* ME CONTACTER */
+
+.pagecontact p {
+	font-size: 28px;
+	margin-top: 1.8%;
+	margin-bottom: 1.8%;
+}
+.pagecontact textarea {
+	height: 25%;
+	font-size: 15px;
+}
+.pagecontact input {
+	padding-top: 2px;
+	padding-bottom: 2px;
+	font-size: 15px;
+}
+
+/* PAGE A PROPOS */
+
+.pagecomp h2 {
+	font-size: 52px;
+}
+.pagecomp h3 {
+	font-size: 42px;
+}
+.pagecomp h4 {
+	font-size: 27px;
+}
+.pagecomp p {
+	font-size : 17px;
+}

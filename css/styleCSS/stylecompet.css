@@ -1,0 +1,34 @@
+	/*____FICHIER CSS POUR LES LISTES DE COMPETENCES____*/
+
+article li {
+list-style-type : square ;
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+article ul {
+	padding-left : 2em;
+	padding-top : 1em;
+	display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+}
+
+article p {
+	padding-top :1em;
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;	
+}
+
+ #prog h1, #log h1{
+	list-style-type:none;
+	content: "→ ";
+}

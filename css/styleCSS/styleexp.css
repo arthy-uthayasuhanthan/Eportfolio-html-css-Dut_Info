@@ -1,0 +1,40 @@
+	
+	
+	/*____FICHIER CSS POUR LES TABLEAUX DE EXPERIENCE____*/
+
+table {
+width : 80%;
+margin-left : 5em;
+border-collapse:collapse;
+color : black;
+margin-bottom: 1.5em;
+
+}
+
+th, td {
+ border: 2px groove #666699;
+ width:20%;
+ 
+}
+ 
+td {
+ text-align:center;
+ 
+}
+
+caption {
+	margin-top : 1em;
+    font-weight: bold;
+	font-size : 20px;
+	color : brown;
+	
+}
+
+img {
+	float : center;
+	width : 85%;
+	padding-left : 1em;
+	padding-top : 1em;
+	padding-top : 1em;
+	
+}

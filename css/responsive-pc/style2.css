@@ -1,0 +1,61 @@
+/* MENU */
+
+header {
+	margin-top: 20px;
+	padding: 0px;
+}
+header a {
+	font-size: 28px;
+}
+/* .snav a { */
+	/* font-size: 22px; */
+/* } */
+
+/* ACCUEIL */
+
+.pageaccueil h2{
+	font-size: 60px;
+}
+.pageaccueil h1 {
+	margin-top: 7%;
+	font-size: 80px;
+}
+.pageaccueil h3 {
+	margin-top: 7%;
+	font-size: 40px;
+}
+.pageaccueil h3 span {
+	font-size: 10px;
+}
+
+/* ME CONTACTER */
+
+.pagecontact p {
+	font-size: 25px;
+	margin-top: 1.5%;
+	margin-bottom: 1.5%;
+}
+.pagecontact textarea {
+	height: 25%;
+	font-size: 14px;
+}
+.pagecontact input {
+	padding-top: 2px;
+	padding-bottom: 2px;
+	font-size: 14px;
+}
+
+/* PAGE A PROPOS */
+
+.pagecomp h2 {
+	font-size: 47px;
+}
+.pagecomp h3 {
+	font-size: 37px;
+}
+.pagecomp h4 {
+	font-size: 22px;
+}
+.pagecomp p {
+	font-size : 17px;
+}

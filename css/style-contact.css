@@ -1,0 +1,43 @@
+
+/* SECTION ME CONTACTER */
+
+.pagecontact {
+	height: 100%;
+}
+.pagecontact p {
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	text-align: center;
+}
+.pagecontact textarea {
+	width:25%;
+	height: 25%;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 18px;
+}
+.pagecontact input {
+	width: 25%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 18px;
+}
+.pagecontact #envoi, .pagecontact #reset {
+	width: 7%;
+	float: left;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+.pagecontact #end-form {
+	width: 75%;
+}
+
+#fleche {
+	position: absolute;
+	margin-left: 80%;
+	margin-top: -20%;
+}
+#fleche img {
+	width: 85%;
+}

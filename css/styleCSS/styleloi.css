@@ -1,0 +1,57 @@
+	/*____FICHIER CSS DE LOISIRS____*/
+
+	/*____VIDEOS ET AUDIOS____*/
+	
+#sec1 article p, audio, video {
+	padding-left : 20px;
+	padding-top : 20px;
+	padding-bottom : 7px;
+	
+}
+
+.audio h1{
+    background-image: url(../images/note.png);
+	background-repeat: no-repeat;
+	background-position:0% 0%;
+	background-size:5% 55%;
+	
+}
+
+.video h1{
+    background-image: url(../images/pelli.png);
+	background-repeat: no-repeat;
+	background-position:0% 0%;
+	background-size:5% 55%;
+	
+}
+
+video{
+	width: 80%;
+}
+
+	/*____CINEMA____*/
+	
+#selection {
+	height : 15em;
+	padding-left : 4em;
+	width : 10em;
+}
+
+legend {
+	display : inline;
+	padding-left : 2em;
+	padding-right : 2em;
+	font-style : italic;
+	float : center;
+}
+
+	/*___L'IMAGE___*/
+
+img{
+	float : center;
+	width : 210px;
+	height : 240px;
+	position : 500 0;
+	display : inline-block;
+	
+}

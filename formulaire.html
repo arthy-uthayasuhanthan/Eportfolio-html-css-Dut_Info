@@ -1,0 +1,278 @@
+<!doctype html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="description" content="Portfolio d'Arthy Uthaya, retrouvez mes projets et travaux"> 
+		<meta name="keywords" content="Arthy Uthaya, Arthy, web, informatique">
+		<meta name='viewport' content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="css/style-contact.css">
+		<link rel="stylesheet" media="(max-width: 1750px)" type="text/css" href="css/responsive-pc/style.css">
+		<link rel="stylesheet" media="(max-width: 1400px)" type="text/css" href="css/responsive-pc/style2.css">
+		<link rel="stylesheet" media="(max-width: 500px)" type="text/css" href="css/responsive-mobile/style.css">
+		
+		<link href="https://fonts.googleapis.com/css?family=Amatic+SC:400,700|Open+Sans+Condensed:300,300i,700" rel="stylesheet">
+
+		<title> Portfolio : Contact </title>
+	</head>
+
+	<body>		
+		<div id="fullpage">
+			<header>
+				<nav>
+					<ul class="menu">
+						<li>
+							<a href="accueil.html" title="accueil"> 
+								Accueil
+							</a>
+						</li>
+						<li>
+							<a href="competences.html" title="Compétences">
+								Compétences
+							</a>
+							<ul class="snav">
+								<li> 
+									<a href="competences.html#lang" title="Langues">
+										Langues
+									</a>
+								</li>
+								<li>
+									<a href="competences.html#log" title="Logiciel">
+										Logiciel
+									</a>
+								</li>
+								<li>
+									<a href="competences.html#prog" title="Programmation">
+										Programmation
+									</a>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<a href="experiences.html" title="Expériences">
+								Expériences
+							</a>
+							<ul class="snav">
+								<li> 
+									<a href="experiences.html#sco" title="Scolarité">
+										Scoralité
+									</a>
+								</li>
+								<li>
+									<a href="experiences.html#pro" title="Professionnelles">
+										Professionnelles
+									</a>
+								</li>
+								<li>
+									<a href="img/CV_UTHAYASUHANTHAN Arthy.pdf" title='PDF' target="_blank">
+										Mon CV
+									</a>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<a href="loisirs.html" title="Loisirs">
+								Loisirs
+							</a>
+							<ul class="snav">
+								<li> 
+									<a href="loisirs.html#musiques" title="Musique">
+										Musiques
+									</a>
+								</li>
+								<li>
+									<a href="loisirs.html#cine" title="Cinema">
+										Cinema
+									</a>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<a href="formulaire.html" title="Me Contacter" class="d_active">
+								Me contacter
+							</a>
+						</li>
+					</ul>
+				</nav>
+			</header>
+
+				<div class="menu-haut">
+					<button class="bt-menu"></button>
+				</div>
+				<div id="menuresponsive">
+					<nav id="menu2">
+						<ul>
+							<li>
+								<a href="accueil.html" title="accueil"> 
+									Accueil
+								</a>
+							</li>
+							<li>
+								<a href="competences.html" title="Compétences">
+									Compétences
+								</a>
+								<ul class="snav">
+									<li> 
+										<a href="competences.html#lang" title="Langues">
+											Langues
+										</a>
+									</li>
+									<li>
+										<a href="competences.html#log" title="Logiciel">
+											Logiciel
+										</a>
+									</li>
+									<li>
+										<a href="competences.html#prog" title="Programmation">
+											Programmation
+										</a>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<a href="experiences.html" title="Expériences">
+									Expériences
+								</a>
+								<ul class="snav">
+									<li> 
+										<a href="experiences.html#sco" title="Scolarité">
+											Scoralité
+										</a>
+									</li>
+									<li>
+										<a href="experiences.html#pro" title="Professionnelles">
+											Professionnelles
+										</a>
+									</li>
+									<li>
+										<a href="img/CV_UTHAYASUHANTHAN Arthy.pdf" title='PDF' target="_blank">
+											Mon CV
+										</a>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<a href="loisirs.html" title="Loisirs">
+									Loisirs
+								</a>
+								<ul class="snav">
+									<li> 
+										<a href="loisirs.html#musiques" title="Musique">
+											Musiques
+										</a>
+									</li>
+									<li>
+										<a href="loisirs.html#cine" title="Cinema">
+											Cinema
+										</a>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<a href="formulaire.html" title="Me Contacter" class="d_active">
+									Me contacter
+								</a>
+							</li>
+						</ul>
+					</nav>
+				</div>
+
+				<div class="pagecontact">
+					<form method="post" action="traitement.php">
+   						<p>
+					     	<label for="nom">Votre nom</label> : <br>
+					     	<input type="text" name="nom" id="nom" placeholder="Votre nom" maxlength="40" />
+					 	</p>
+					 	<p>
+					    	<label for="prenom">Votre prénom</label> : <br>
+					    	<input type="text" name="prenom" id="prenom" placeholder="Votre prénom"  maxlength="40" />
+					 	</p>
+					 	<p>
+					 		<label>Votre e-mail</label> : <br>
+					 		<input type="email" name="email" placeholder="votre-email@quelque-chose.fr"/>
+					 	</p>
+					 	<p>
+					 		<label for="message">Votre message</label> : <br>
+					 		<textarea name="message" id="message" placeholder="Dites-moi tout" rows="8"></textarea>
+					 	</p>
+					 	<div id="end-form">
+						 	<input type="submit" value="Envoyer" id="envoi"/>
+						 	<input type="reset" value="Reset" id="reset"/>
+					 	</div>
+					</form>
+			</div>
+		</div>
+		<footer id="footerfull">
+			<p>© Arthy  Uthayasuhanthan - 2017</p>
+		</footer>
+
+		<script type="text/javascript" src="js/js.js"></script>
+		<script>
+
+			
+			function redimensionnement() {
+				var window_height = $(window).height();
+				var window_width = $(window).width();
+				var form = $('#envoi').width();
+				var menu = $('.bt-menu').height();
+
+				$("#fullpage").each(function(){
+					$(this).css('height', window_height);
+				});
+				$("#menu2").each(function(){
+					$(this).css({'padding-top' : menu + 40 +'px'});
+				});
+				$('#end-form').each(function(){
+					$(this).css({'margin-left' : (window_width/2) - form - 25+'px'});
+				});
+				$('#envoi').each(function(){
+					$(this).css({'margin-right' : 50+'px'});
+				});
+				/*$('li.projets').hover(function(){
+					$('.snav').slideDown({'display': 'block'});
+					$('.snav').finish().slideUp({'display': 'none'});
+					
+				});*/
+				
+			};
+			$(document).ready(function(){
+				redimensionnement();
+				
+				$( "li.projets" )
+				  .mouseenter(function() {
+					$('li.projets .snav').slideDown({'display': 'block'});
+				})
+				  .mouseleave(function() {
+					$('li.projets .snav').slideUp({'display': 'none'});
+				});
+
+				$( "li.aprop" )
+				  .mouseenter(function() {
+					$('li.aprop .snav').slideDown({'display': 'block'});
+				})
+				  .mouseleave(function() {
+					$('li.aprop .snav').slideUp({'display': 'none'});
+				});
+
+				$('.bt-menu').click( function(){
+					if($('#menuresponsive').is(':visible')) {
+						$('#menuresponsive').css({'display':'none'});
+					} 
+					else {
+						$('#menuresponsive').css({'display':'block'});
+					}
+				});
+		        $('.bt-menu').on('click',function(){
+			        $(this).toggleClass('close');
+		        	$('#menu_header').toggleClass('open');
+		   		}); 
+			});
+			$(document).resize(function(){
+				redimensionnement();
+			});
+
+		</script>
+	</body>
+</html>

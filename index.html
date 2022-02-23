@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="description" content="Portfolio Arthy Uthayasuhanthan, retrouvez mes projets et travaux"> 
+		<meta name="keywords" content="Arthy Uthayasuhanthan, Arthy, web, informatique">
+		<meta name='viewport' content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel='stylesheet' type='text/css' href='css/font-awesome.min.css'>
+		<link rel="stylesheet" media="(max-width: 1750px)" type="text/css" href="css/responsive-pc/style.css">
+		
+		<link href="https://fonts.googleapis.com/css?family=Amatic+SC:400,700|Open+Sans+Condensed:300,300i,700" rel="stylesheet">
+		<!-------boostrap----->
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
+	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		
+		<title> Portfolio Arthy Uthayasuhanthan </title>
+	</head>
+
+	<body>
+			<div id="bloc">
+				<div id="circle-index">						
+					<div id="myCarousel" class="carousel slide" data-ride="carousel">
+						<!-- Indicators -->
+						<!-- Wrapper for slides -->
+						<div class="carousel-inner">
+						  <div class="item active">
+							<h1> Bonjour ! </h1>
+						  </div>
+
+						  <div class="item">
+							<h1> Hello ! </h1>
+						  </div>
+						
+						  <div class="item">
+							<h1> Guten Morgan ! </h1>
+						  </div>
+						</div>
+					  </div>
+					
+					<a href="accueil.html" title="aller à l'accueil du site">
+						<span class="fa fa-long-arrow-right"></span>
+					</a>
+					<h1>Arthy Uthayasuhanthan</h1>
+				</div>
+			</div>
+			
+			<footer></footer>
+			
+		<script type="text/javascript" src="js/js.js"></script>
+		<script>
+			
+			function redimensionnement() {
+				var width = $(window).width();
+				var height = $(window).height();
+				var circle =$('#circle-index').height();
+
+				$("#bloc").each(function(){
+					$(this).css({'height' : height });
+				});
+				$("#circle-index").each(function(){
+					$(this).css({'margin-top': height/2 - circle/2});
+				});
+			};
+			$(document).ready(function(){
+				redimensionnement();
+			});
+			$(document).resize(function(){
+				redimensionnement();
+			});
+
+		</script>
+	</body>
+</html>

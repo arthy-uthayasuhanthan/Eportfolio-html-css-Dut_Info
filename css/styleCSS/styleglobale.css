@@ -1,0 +1,71 @@
+	/*________BODY________*/
+	
+body {
+	height : 100%;
+	min-height :100%;
+	max-height : 100%;
+
+}
+	/*_______GLOBALE______*/
+	
+#globale {
+	float :center;
+	background-color : #ffdada;
+	background-size : 100%;
+	margin-left : 10%;
+	margin-right : 10%;
+	border-radius : 5px;
+	padding-bottom : 2em;
+	overflow : hidden;
+	
+}
+
+	/*____LA PAGE____*/
+	
+#page {
+	margin-left : 18%;
+	margin-top : 4%;
+	
+}
+	/*____SECTION____*/
+  
+section {
+	color : #a48ba8;
+	text-align : left;
+	
+}
+	/*____L'INTRODUCTION____*/
+  
+#intro h1 {
+	padding-bottom : 5px;
+	padding-top : 15px;
+	text-align : center;
+	
+}
+  /*____ARTICLE___*/
+  
+article {
+	width : 85%;
+	margin-top : 25px;
+	margin-bottom: 28px;
+	margin-left : 1em;
+	border-width : 1px;
+	border-style : solid;
+	border-color : grey;
+	box-shadow: 0.8px 0.8px 0.8px grey;
+	padding-bottom : 1em;
+	background-color:#ffdada;
+	
+}
+
+#sec1 article  h1 {
+	background-color : #eeeeee;
+	padding-left : 10%;
+	padding-top : 25px;
+	padding-bottom : 10px;
+	height : 35px;
+ 
+}
+
+
+

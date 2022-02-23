@@ -1,0 +1,22 @@
+	/*____FICHIER CSS DE L'ACCUEIL____*/
+
+	/*___L'INTRODUCTION___*/
+
+#intro h1 {
+	text-align : center;
+	font-size : 2em;
+	
+}
+
+#intro h3 {
+	text-align : center;
+	
+}
+
+#intro p {
+	display : inline-block;
+	padding-top : 4em;
+	line-height : 2em;
+	margin-left : 6em;
+
+}

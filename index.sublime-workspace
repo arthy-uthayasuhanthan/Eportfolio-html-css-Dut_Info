@@ -1,0 +1,624 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fichier",
+				"fichier_pt"
+			],
+			[
+				"tube",
+				"tube_collecteur_travailleur"
+			],
+			[
+				"cara",
+				"carac_lecture"
+			],
+			[
+				"tab_",
+				"tab_caracNb"
+			],
+			[
+				"tube_",
+				"tube_producteur_travailleur"
+			],
+			[
+				"tab",
+				"tab_caracNb"
+			],
+			[
+				"E",
+				"EnseignantFormulaire"
+			],
+			[
+				"en",
+				"enseignant"
+			],
+			[
+				"liste",
+				"liste_groupe"
+			],
+			[
+				"id",
+				"id_mat"
+			],
+			[
+				"label",
+				"label_s"
+			],
+			[
+				"nu",
+				"num_grpe"
+			],
+			[
+				"id_",
+				"id_edth"
+			],
+			[
+				"my",
+				"mysqli_fetch"
+			],
+			[
+				"Ajout",
+				"Ajout_creneaux"
+			],
+			[
+				"A",
+				"Ajout_creneaux"
+			],
+			[
+				"ajout",
+				"ajout_etudiants"
+			],
+			[
+				"k",
+				"k"
+			],
+			[
+				"g",
+				"g"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"etu",
+				"etudiant_A_ajouter"
+			],
+			[
+				"A_ajout",
+				"Adm_ajout_etu"
+			],
+			[
+				"et",
+				"etudiant_A_ajouter"
+			],
+			[
+				"ma",
+				"matricule"
+			],
+			[
+				"login",
+				"login_etu"
+			],
+			[
+				"f",
+				"f"
+			],
+			[
+				"conne",
+				"connectBD"
+			],
+			[
+				"A_init_",
+				"A_init_ajout"
+			],
+			[
+				"Adm_",
+				"Adm_affichage_EDT"
+			],
+			[
+				"Formulaire",
+				"FormulaireEntreprise"
+			],
+			[
+				"Recher",
+				"RechercheParFiltre"
+			],
+			[
+				"la",
+				"label_pr"
+			],
+			[
+				"update",
+				"update_etudiant"
+			],
+			[
+				"fici",
+				"fichier"
+			],
+			[
+				"Etudiant",
+				"EtudiantFormulaire"
+			],
+			[
+				"onC",
+				"onclick\tAttr"
+			],
+			[
+				"on",
+				"onauxclick\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"genre",
+				"genre"
+			],
+			[
+				"email",
+				"email_externe"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"pass",
+				"pass_admin"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"pre",
+				"prenom"
+			],
+			[
+				"n",
+				"nom"
+			],
+			[
+				"enseig",
+				"enseignant_post"
+			],
+			[
+				"ense",
+				"enseignant_liste"
+			],
+			[
+				"ensei",
+				"enseignant_post"
+			],
+			[
+				"list_",
+				"liste_enseignant"
+			],
+			[
+				"Ad",
+				"Adm_accueil"
+			],
+			[
+				"ge",
+				"Gerant"
+			],
+			[
+				"Conne",
+				"Connexion"
+			],
+			[
+				"ins",
+				"btnInscription"
+			],
+			[
+				"st",
+				"stdlib.h\tstandard header"
+			],
+			[
+				"std",
+				"stdio.h\tstandard header"
+			],
+			[
+				"mail",
+				"mail_exter"
+			],
+			[
+				"Nom",
+				"Nom"
+			],
+			[
+				"N",
+				"NOT"
+			],
+			[
+				"nom",
+				"Nomp"
+			],
+			[
+				"Da",
+				"DATE"
+			],
+			[
+				"pro",
+				"programmation"
+			],
+			[
+				"Pro",
+				"Programmation"
+			],
+			[
+				"lo",
+				"localisation"
+			],
+			[
+				"Object",
+				"Objects"
+			],
+			[
+				"sa",
+				"SalleCinema"
+			],
+			[
+				"sal",
+				"salaireHoraire"
+			],
+			[
+				"nb",
+				"nbHT"
+			],
+			[
+				"ta",
+				"tauxRemplissage"
+			],
+			[
+				"salaire",
+				"salairehoraire"
+			],
+			[
+				"Sa",
+				"SalleCinema"
+			],
+			[
+				"M",
+				"Media"
+			],
+			[
+				"Re",
+				"Reservation"
+			],
+			[
+				"media",
+				"medias"
+			],
+			[
+				"Abonne",
+				"AbonneImpl"
+			],
+			[
+				"pa",
+				"package"
+			],
+			[
+				"Strin",
+				"String"
+			],
+			[
+				"po",
+				"positionInitiale"
+			],
+			[
+				"V",
+				"VIABLE_THRESHOLD"
+			],
+			[
+				"mo",
+				"motorsFired"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"pu",
+				"public"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp64/www/PROJET_2018_PWEB_APPLICATION/index.php",
+		"/C/wamp64/www/PROJET_OFFICIEL_TABI_ARTHY_ABY/index.php",
+		"/C/wamp64/www/ProjetPHP_2020/modele/connectBD.php",
+		"/C/wamp64/www/ProjetPHP_2020/Ajout_creneaux.php",
+		"/C/wamp64/www/PROJET_2018_PWEB_APPLICATION/controle/identification.php",
+		"/C/wamp64/www/PROJET_2018_PWEB_APPLICATION/controle/eleve.php",
+		"/D/L3 MIAGE-Nanterre/Stage-delbot/FaceRecognition-master/FaceRecognition-master/tester.py",
+		"/D/L3 MIAGE-Nanterre/Stage-delbot/FaceRecognition-master/FaceRecognition-master/videotoimg.py",
+		"/D/L3 MIAGE-Nanterre/Stage-delbot/FaceRecognition-master/FaceRecognition-master/faceRecognition.py",
+		"/D/L3 MIAGE-Nanterre/Stage-delbot/FaceRecognition-master/FaceRecognition-master/videoTester.py",
+		"/C/Users/arthy/OneDrive/Bureau/Latex/Projet Euler/Dossier.tex",
+		"/C/Users/arthy/OneDrive/Bureau/Latex/Projet Euler/Dossier.pdf",
+		"/C/Users/arthy/OneDrive/Bureau/Latex/Template_Latex_pour_rapport_de_stage/pagedegarde.tex",
+		"/D/L3 MIAGE-Nanterre/S6/Systeme_PC/Projet_arthy/makefile.sh",
+		"/D/L3 MIAGE-Nanterre/S6/Systeme_PC/Projet_arthy/producteur.c",
+		"/D/L3 MIAGE-Nanterre/S6/Systeme_PC/Projet_arthy/producteur_normale.c",
+		"/D/L3 MIAGE-Nanterre/S6/Systeme_PC/Projet_arthy/collecteur.c",
+		"/D/L3 MIAGE-Nanterre/S6/Systeme_PC/Projet_arthy/travailleur.c",
+		"/D/L3 MIAGE-Nanterre/S6/Systeme_PC/projetsystem/work.c",
+		"/D/L3 MIAGE-Nanterre/S6/Systeme_PC/projetsystem/collecteur.c",
+		"/D/L3 MIAGE-Nanterre/S6/Systeme_PC/Projet_arthy/wcp.c",
+		"/D/L3 MIAGE-Nanterre/S6/Systeme_PC/Projet_sefkan/L3_Systeme-master/headers/file_manager.h",
+		"/D/L3 MIAGE-Nanterre/S6/Systeme_PC/Projet_sefkan/L3_Systeme-master/src/wcplib.c",
+		"/D/L3 MIAGE-Nanterre/S6/Systeme_PC/Projet_sefkan/L3_Systeme-master/src/main.c",
+		"/D/L3 MIAGE-Nanterre/S6/Systeme_PC/Projet_sefkan/L3_Systeme-master/src/file_manager.c",
+		"/D/L3 MIAGE-Nanterre/S6/Systeme_PC/Projet_sefkan/L3_Systeme-master/src/element.c",
+		"/D/L3 MIAGE-Nanterre/S6/Systeme_PC/Projet_sefkan/L3_Systeme-master/headers/element.h",
+		"/D/L3 MIAGE-Nanterre/S6/Systeme_PC/projetsystem/39001776_Uthayasuhanthan_Arthy/Projet/producteur.c",
+		"/D/L3 MIAGE-Nanterre/S6/Systeme_PC/projetsystem/39001776_Uthayasuhanthan_Arthy/Projet/travailleur.c",
+		"/D/L3 MIAGE-Nanterre/S6/Systeme_PC/projetsystem/39001776_Uthayasuhanthan_Arthy/Projet/collecteur.c",
+		"/D/L3 MIAGE-Nanterre/S6/Systeme_PC/projetsystem/constantes.h",
+		"/D/L3 MIAGE-Nanterre/S6/Systeme_PC/projetsystem/file",
+		"/D/L3 MIAGE-Nanterre/S6/Systeme_PC/Projet_sefkan/L3_Systeme-master/headers/wcplib.h",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Responsable_EDT/E_affichage_EDT.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Administration/Adm_affichage_EDT.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/Ajout_semaine.php",
+		"/C/wamp64/www/ProjetPHP_2020/EnseignantFormulaire.php",
+		"/C/wamp64/www/ProjetPHP_2020/EtudiantFormulaire.php",
+		"/C/wamp64/www/ProjetPHP_2020/modele/eleveBD.php",
+		"/C/wamp64/www/ProjetPHP_2020/controle/eleve.php",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Eleve/Etu_accueil_liste_prof.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Eleve/Etu_accueil_notifications.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Responsable_EDT/E_page_Profil.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Responsable_EDT/E_accueil_prof_couleur.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Responsable_EDT/E_accueil_prof_messages.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Responsable_EDT/E_accueil_prof_listeE.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Administration/Adm_ajout_etu.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Prof_Intervenant/I_accueil_prof_contraintes.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Prof_Intervenant/I_accueil_prof_couleur.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Prof_Intervenant/I_accueil_prof_liste_etudiants.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Prof_Intervenant/I_accueil_prof_messages.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Prof_Intervenant/I_affichage_EDT.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Prof_Intervenant/I_page_Profil.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Responsable_Matiere/M_affichage_EDT.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Eleve/Etu_affichage_EDT.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/etudiant.php",
+		"/C/wamp64/www/ProjetPHP_2020/connexion1.php",
+		"/C/wamp64/www/ProjetPHP_2020/import_etudiant.php",
+		"/D/L3 MIAGE-Nanterre/S6/PHP_PSI/patient3/patient3/patient.php",
+		"/C/wamp64/www/ProjetPHP_2020/delete_enseignant.php",
+		"/C/wamp64/www/ProjetPHP_2020/delete_etudiant.php",
+		"/C/wamp64/www/ProjetPHP_2020/enseignant.php",
+		"/C/wamp64/www/ProjetPHP_2020/RechercheParFiltre.php",
+		"/C/wamp64/www/ProjetPHP_2020/update_enseignant.php",
+		"/C/wamp64/www/ProjetPHP_2020/update_etudiant.php",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Administration/Adm_modif_etu.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Administration/Adm_delete_etu.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Administration/Adm_modif_prof.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Administration/Adm_ajout_prof.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Administration/Adm_delete_prof.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/modele/adminBD.php",
+		"/C/wamp64/www/ProjetPHP_2020/modele/profBD.php",
+		"/C/wamp64/www/ProjetPHP_2020/controle/prof.php",
+		"/C/wamp64/www/ProjetPHP_2020/controle/admin.php",
+		"/C/wamp64/www/projetphp/import_etudiant.php",
+		"/C/wamp64/www/projetphp/delete_etudiant.php",
+		"/C/wamp64/www/projetphp/enseignant.php",
+		"/C/wamp64/www/projetphp/EnseignantFormulaire.php",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Administration/Adm_accueil_contraintes.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Administration/Adm_accueil_liste_etudiants.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Administration/Adm_accueil_liste_prof.tpl",
+		"/C/wamp64/www/tests/15042020/CreaneauFormulaire.php",
+		"/C/wamp64/www/ProjetPHP_2020/page/EtudiantFormulaire.php",
+		"/C/wamp64/www/ProjetPHP_2020/page/update_etudiant.php",
+		"/C/wamp64/www/ProjetPHP_2020/page/update_enseignant.php",
+		"/C/wamp64/www/ProjetPHP_2020/page/etudiant.php",
+		"/C/wamp64/www/ProjetPHP_2020/page/delete_etudiant.php",
+		"/C/wamp64/www/ProjetPHP_2020/page/EnseignantFormulaire.php",
+		"/C/wamp64/www/ProjetPHP_2020/page/connexion1.php",
+		"/C/wamp64/www/ProjetPHP_2020/page/Accueil_gerant.html",
+		"/C/wamp64/www/projetphp/b.jpg",
+		"/C/wamp64/www/ProjetPHP_2020/page/ajouter_etudiant.php",
+		"/C/wamp64/www/ProjetPHP_2020/test.php",
+		"/C/wamp64/www/ProjetPHP_2020/page/ajouter_prof.php",
+		"/C/wamp64/www/projetphp/EtudiantFormulaire.php",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Responsable_Matiere/M_accueil_prof_contraintes_intervenant.tpl",
+		"/C/wamp64/www/tests/test/vue.html",
+		"/C/wamp64/www/tests/test/controleur.php",
+		"/C/wamp64/www/tests/test/modele.php",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Administration/EtudiantFormulaire.php",
+		"/C/wamp64/www/projetphp/connexion1.php",
+		"/C/wamp64/www/ProjetPHP_2020/index.php",
+		"/D/téléchargement/mvclesson/mvclesson/controller/sportsController.php",
+		"/D/téléchargement/mvclesson/mvclesson/model/sportsModel.php",
+		"/D/téléchargement/mvclesson/mvclesson/view/insert.php",
+		"/D/L3 MIAGE-Nanterre/S6/Systeme_PC/projetsystem/Projet/client.c",
+		"/D/téléchargement/mvclesson/mvclesson/model/sports.php",
+		"/C/wamp64/www/projetphp/update_etudiant.php",
+		"/C/wamp64/www/projetphp/etudiant.php",
+		"/C/wamp64/www/ProjetPHP_2020/vue/identification.tpl",
+		"/C/wamp64/www/PROJET_2018_PWEB_APPLICATION/vue/Responsable_EDT/E_affichage_EDT.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Responsable_Matiere/M_accueil_prof_label_matiere.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Responsable_Matiere/M_accueil_prof_messages.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Responsable_Matiere/M_accueil_prof_specifications.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Responsable_Matiere/M_page_Profil.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Administration/Adm_accueil_ajout_etu.tpl",
+		"/C/wamp64/www/ProjetPHP_2020/vue/Administration/Adm_accueil_ajout_prof.tpl",
+		"/C/wamp64/www/PROJET_2018_PWEB_APPLICATION/modele/connectBD.php",
+		"/C/wamp64/www/ProjetPHP_2020/vue/styles/style_identification.css",
+		"/C/wamp64/www/ProjetPHP_2020/controle/etudiant.php",
+		"/C/wamp64/www/PROJET_2018_PWEB_APPLICATION/modele/profBD.php",
+		"/C/wamp64/www/PROJET_2018_PWEB_APPLICATION/controle/prof.php",
+		"/C/wamp64/www/ProjetPHP_2020/projetphp20.sql",
+		"/C/wamp64/www/demo/samples/Reader/05_csvSimple_file_reader_using_the_read_data_only_option.php",
+		"/C/wamp64/www/projetphp/FormulaireEntreprise.php",
+		"/C/wamp64/www/projetphp/formulaireMission.php",
+		"/C/wamp64/www/projetphp/PageExport.php",
+		"/C/wamp64/www/projetphp/RechercheParFiltre.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"E_afficha",
+				"PROJET_2018_PWEB_APPLICATION\\vue\\Responsable_EDT\\E_affichage_EDT.tpl"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 145.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
